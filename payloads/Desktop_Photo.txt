@@ -1,0 +1,64 @@
+# =======================================
+# Title        : Desktop Photo
+# Author       : Nia Poor
+# Date         : 04/16/2023
+# Category     : Prank
+# Target       : Windows 10
+# Prep         : N/A
+# Inspiration  : N/A
+# =======================================
+
+# Open camera
+GUI
+DELAY 50
+STRING camera
+DELAY 50
+ENTER
+# Take a photo
+DELAY 700
+SPACE
+DELAY 700
+# Select the photo that was just taken
+TAB
+DELAY 50
+ENTER
+DELAY 600
+# Open the folder where the photo is held
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+ENTER
+DELAY 50
+DOWNARROW
+DELAY 50
+ENTER
+DELAY 250
+# Select the window with the photo
+CTRL ALT TAB
+DELAY 50
+TAB
+DELAY 50
+ENTER
+DELAY 50
+# Right click the photo
+SHIFT F10
+DELAY 50
+# Navigate to and select, in right click, to "Set as desktop background"
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+ENTER
+DELAY 300
+# Close the 3 open windows, leaving the background for all to see!
+ALT F4
+DELAY 50
+ALT F4
+DELAY 50
+ALT F4
