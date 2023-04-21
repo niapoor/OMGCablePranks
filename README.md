@@ -1,5 +1,5 @@
 # O.MG Cable Pranks
-Pranks on an O.MG cable (a [hak5](hak5.org) tool) for RIT CyberCorps®: Scholarship for Service to demo at RIT's annual event ImagineRIT. Created by Nia Poor.
+Pranks on an O.MG cable (a [hak5]([hak5.org](https://hak5.org/)) tool) for RIT CyberCorps®: Scholarship for Service to demo at RIT's annual event ImagineRIT. Created by Nia Poor.
 
 <!-- TABLE OF CONTENTS -->
 <details>
