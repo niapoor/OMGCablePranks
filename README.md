@@ -6,25 +6,28 @@ Pranks on an O.MG cable for RIT CyberCorps SFS to use at ImagineRIT. Created by 
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#Imagining RIT">Imagining RIT</a></li>
-      <ul>
-        <li><a href="#Payload Title">Payload Title</a></li>
-        <li><a href="#Payload Description">Payload Description</a></li>
-      </ul>
     <li><a href="#YouTube Video Prank">YouTube Video Prank</a></li>
     <li><a href="#Wallpaper Photo Surprise">Wallpaper Photo Surprise</a></li>
     <li><a href="#Blue Screen of Death">Blue Screen of Death</a></li>
+    <li><a href="#Extras">Extras</a></li>
   </ol>
 </details>
 
 ## Imagining RIT
-### Payload Title: 
-### Payload Description: 
+### Payload Title
+IMAGINING_RIT.txt
+### Payload Description
 
 ## YouTube Video Prank
 
 ## Wallpaper Photo Surprise
 
 ## Blue Screen of Death
+
+## Extras
+### Learn More About RIT CyberCorps®: Scholarship for Service through our [linktree](https://linktr.ee/rit_cybercorps).
+
+
 
 Disclaimer: This project was created for educational purposes only. More specifically, this was created for RIT CyberCorps®: Scholarship for Service to showcase at ImagineRIT to show the general public the dangers that come with trusting random cables. RIT CyberCorps®: Scholarship for Service, nor the creator of the payloads in this repository, are liable for the use or misuse of this project.
 
