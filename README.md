@@ -28,7 +28,7 @@ IMAGINING_RIT.txt
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Blue Screen of Death
+## Blue Screen of Death 💀
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
