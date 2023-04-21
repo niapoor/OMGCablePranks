@@ -27,7 +27,7 @@ IMAGINING_RIT.txt
 ## Extras
 ### Contact
 * Learn more about RIT CyberCorps®: Scholarship for Service through our [linktree](https://linktr.ee/rit_cybercorps).
-* Email us at cybercorps@rit.edu (if you are in the Rochester area consider organizing community outreach events with us).
+* Email us at cybercorps@rit.edu (if you are in the Rochester area, please consider organizing community outreach events with us).
 
 
 
