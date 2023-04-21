@@ -13,14 +13,15 @@ Pranks on an O.MG cable for RIT CyberCorps®: Scholarship for Service to demo at
   </ol>
 </details>
 
-## Imagining RIT
+## Imagining RIT 💭
 ### Payload Title
 IMAGINING_RIT.txt
+
 ### Payload Description
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## YouTube Video Prank
+## YouTube Video Prank 🎵
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
