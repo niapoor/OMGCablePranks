@@ -24,7 +24,7 @@ IMAGINING_RIT.txt
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Wallpaper Photo Surprise
+## Wallpaper Photo Surprise 📸
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
