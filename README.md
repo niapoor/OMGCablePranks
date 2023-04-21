@@ -13,6 +13,8 @@ Pranks on an O.MG cable for RIT CyberCorps SFS to use at ImagineRIT. Created by 
 </details>
 
 ## Imagining RIT
+### Payload Title: 
+### Payload Description: 
 
 ## YouTube Video Prank
 
