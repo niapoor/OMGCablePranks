@@ -39,7 +39,7 @@ IMAGINING_RIT.txt
 
 
 ### Disclaimer
-This project was created for educational purposes only. More specifically, this was created for RIT CyberCorps®: Scholarship for Service to showcase at ImagineRIT to show the general public the dangers that come with trusting random cables. RIT CyberCorps®: Scholarship for Service, nor the creator of the payloads in this repository, are liable for the use or misuse of this project.
+This project was created for educational purposes only. More specifically, this was created for RIT CyberCorps®: Scholarship for Service to showcase at ImagineRIT to inform the general public the risks that come with trusting random cables. RIT CyberCorps®: Scholarship for Service, nor the creator of the payloads in this repository, are liable for the use or misuse of this project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
