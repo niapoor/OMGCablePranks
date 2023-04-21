@@ -25,7 +25,9 @@ IMAGINING_RIT.txt
 ## Blue Screen of Death
 
 ## Extras
-### Learn More About RIT CyberCorps®: Scholarship for Service through our [linktree](https://linktr.ee/rit_cybercorps).
+### Contact
+* Learn more about RIT CyberCorps®: Scholarship for Service through our [linktree](https://linktr.ee/rit_cybercorps).
+* Email us at cybercorps@rit.edu
 
 
 
