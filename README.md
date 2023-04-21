@@ -34,7 +34,7 @@ IMAGINING_RIT.txt
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Extras
-### Contact
+### Contact Information
 * Learn more about RIT CyberCorps®: Scholarship for Service through our [linktree](https://linktr.ee/rit_cybercorps).
 * Email us at cybercorps@rit.edu
 
