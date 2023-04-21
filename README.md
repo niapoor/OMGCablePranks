@@ -18,11 +18,19 @@ Pranks on an O.MG cable for RIT CyberCorps SFS to use at ImagineRIT. Created by 
 IMAGINING_RIT.txt
 ### Payload Description
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## YouTube Video Prank
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Wallpaper Photo Surprise
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Blue Screen of Death
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Extras
 ### Contact
