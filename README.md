@@ -1,4 +1,4 @@
-# OMGCablePranks
+# O.MG Cable Pranks
 Pranks on an O.MG cable for RIT CyberCorps®: Scholarship for Service to demo at RIT's annual event ImagineRIT. Created by Nia Poor.
 
 <!-- TABLE OF CONTENTS -->
