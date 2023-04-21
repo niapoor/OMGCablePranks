@@ -6,7 +6,9 @@ Pranks on an O.MG cable for RIT CyberCorps SFS to use at ImagineRIT. Created by 
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#Imagining RIT">Imagining RIT</a></li>
+      <ul>
         <li><a href="#Test">Test</a></li>
+      </ul>
     <li><a href="#YouTube Video Prank">YouTube Video Prank</a></li>
     <li><a href="#Wallpaper Photo Surprise">Wallpaper Photo Surprise</a></li>
     <li><a href="#Blue Screen of Death">Blue Screen of Death</a></li>
