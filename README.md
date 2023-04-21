@@ -26,7 +26,7 @@ IMAGINING_RIT.txt
 
 ## Extras
 ### Contact
-* Learn more about RIT CyberCorps®: Scholarship for Service through our [linktree](https://linktr.ee/rit_cybercorps).
+* Learn more about RIT CyberCorps®: Scholarship for Service through our [linktree](https://linktr.ee/rit_cybercorps)
 * Email us at cybercorps@rit.edu
 
 
