@@ -1,5 +1,5 @@
 # OMGCablePranks
-Pranks on an O.MG cable for RIT CyberCorps SFS to use at ImagineRIT
+Pranks on an O.MG cable for RIT CyberCorps SFS to use at ImagineRIT. Created by Nia Poor.
 
 <!-- TABLE OF CONTENTS -->
 <details>
