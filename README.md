@@ -18,20 +18,43 @@ Pranks on an O.MG cable (a [hak5](https://hak5.org/)) tool) for RIT CyberCorps®
 IMAGINING_RIT.txt
 
 ### Payload Description
+This payload opens a terminal and writes out cryptic messages on the screen, making it appear as if a hacker is typing it out in real time. The terminal it types in is full-screen and in green text. After all the messages are written, the terminal closes itself and beeps twice (for added effect).
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
 
 ## YouTube Video Prank 🎵
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+
+
+
+
 ## Wallpaper Photo Surprise 📸
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+
+
+
+
 ## Blue Screen of Death 💀
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
 
 ## Extras
 ### Contact Information
