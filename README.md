@@ -5,7 +5,7 @@ Pranks on an O.MG cable (a [hak5](https://hak5.org/)) tool) for RIT CyberCorps®
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Imagining-RIT-💭">Imagining RIT</a></li>
+    <li><a href="#Imagining-RIT">Imagining RIT</a></li>
     <li><a href="#YouTube-Video-Prank">YouTube Video Prank</a></li>
     <li><a href="#Wallpaper-Photo-Surprise">Wallpaper Photo Surprise</a></li>
     <li><a href="#Blue-Screen-of-Death">Blue Screen of Death</a></li>
@@ -14,7 +14,7 @@ Pranks on an O.MG cable (a [hak5](https://hak5.org/)) tool) for RIT CyberCorps®
   </ol>
 </details>
 
-## Imagining RIT 💭
+## Imagining RIT
 ### Payload Title
 imagining_rit.txt
 
@@ -30,7 +30,7 @@ This payload opens a terminal and writes out cryptic messages on the screen, mak
 
 
 
-## YouTube Video Prank 🎵
+## YouTube Video Prank
 ### Payload Title
 youtube_prank.txt
 
@@ -44,7 +44,7 @@ This payload opens the user's Chrome browser and begins a Rick Roll video on You
 
 
 
-## Wallpaper Photo Surprise 📸
+## Wallpaper Photo Surprise
 ### Payload Title
 wallpaper_photo_surprise.txt
 
@@ -59,7 +59,7 @@ This payload opens a the user's camera and takes a picture of them. Then it repl
 
 
 
-## Blue Screen of Death 💀
+## Blue Screen of Death
 ### Payload Title
 blue_screen_of_death.txt
 
@@ -71,7 +71,7 @@ This payload hides the user's taskbar and desktop icons. It then curls an image 
 
 
 
-## RanFUNware 😈
+## RanFUNware
 ### Payload Title
 ranfunware.txt
 
