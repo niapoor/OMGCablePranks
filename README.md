@@ -9,7 +9,7 @@ Pranks on an O.MG cable (a [hak5](https://hak5.org/)) tool) for RIT CyberCorps®
     <li><a href="#YouTube Video Prank 🎵">YouTube Video Prank 🎵</a></li>
     <li><a href="#Wallpaper Photo Surprise 📸">Wallpaper Photo Surprise 📸</a></li>
     <li><a href="#Blue Screen of Death 💀">Blue Screen of Death 💀</a></li>
-    <li><a href="#RanFUNware😈">RanFUNware😈</a></li>
+    <li><a href="#RanFUNware 😈">RanFUNware 😈</a></li>
     <li><a href="#Extras">Extras</a></li>
   </ol>
 </details>
@@ -30,7 +30,7 @@ This payload opens a terminal and writes out cryptic messages on the screen, mak
 
 
 
-## YouTube Video Prank 🎵
+##YouTube Video Prank 🎵
 ### Payload Title
 youtube_prank.txt
 
@@ -71,7 +71,7 @@ This payload hides the user's taskbar and desktop icons. It then curls an image 
 
 
 
-## RanFUNware😈
+## RanFUNware 😈
 ### Payload Title
 ranfunware.txt
 
