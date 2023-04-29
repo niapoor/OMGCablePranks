@@ -5,11 +5,11 @@ Pranks on an O.MG cable (a [hak5](https://hak5.org/)) tool) for RIT CyberCorps®
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Imagining-RIT">Imagining RIT 💭</a></li>
-    <li><a href="#YouTube-Video-Prank">YouTube Video Prank 🎵</a></li>
-    <li><a href="#Wallpaper-Photo-Surprise">Wallpaper Photo Surprise 📸</a></li>
-    <li><a href="#Blue-Screen-of-Death">Blue Screen of Death 💀</a></li>
-    <li><a href="#RanFUNware">RanFUNware 😈</a></li>
+    <li><a href="#Imagining-RIT">Imagining RIT</a></li>
+    <li><a href="#YouTube-Video-Prank">YouTube Video Prank</a></li>
+    <li><a href="#Wallpaper-Photo-Surprise">Wallpaper Photo Surprise</a></li>
+    <li><a href="#Blue-Screen-of-Death">Blue Screen of Death</a></li>
+    <li><a href="#RanFUNware">RanFUNware</a></li>
     <li><a href="#Extras">Extras</a></li>
   </ol>
 </details>
