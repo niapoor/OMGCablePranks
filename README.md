@@ -9,13 +9,14 @@ Pranks on an O.MG cable (a [hak5](https://hak5.org/)) tool) for RIT CyberCorps®
     <li><a href="#YouTube Video Prank 🎵">YouTube Video Prank 🎵</a></li>
     <li><a href="#Wallpaper Photo Surprise 📸">Wallpaper Photo Surprise 📸</a></li>
     <li><a href="#Blue Screen of Death 💀">Blue Screen of Death 💀</a></li>
+    <li><a href="#RanFUNware 😈">RanFUNware 😈</a></li>
     <li><a href="#Extras">Extras</a></li>
   </ol>
 </details>
 
 ## Imagining RIT 💭
 ### Payload Title
-IMAGINING_RIT.txt
+imagining_rit.txt
 
 ### Payload Description
 This payload opens a terminal and writes out cryptic messages on the screen, making it appear as if a hacker is typing it out in real time. The terminal it types in is full-screen and in green text. After all the messages are written, the terminal closes itself and beeps twice (for added effect).
@@ -30,6 +31,11 @@ This payload opens a terminal and writes out cryptic messages on the screen, mak
 
 
 ## YouTube Video Prank 🎵
+### Payload Title
+youtube_prank.txt
+
+### Payload Description
+This payload opens the user's Chrome browser and begins a Rick Roll video on YouTube.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -39,6 +45,12 @@ This payload opens a terminal and writes out cryptic messages on the screen, mak
 
 
 ## Wallpaper Photo Surprise 📸
+### Payload Title
+wallpaper_photo_surprise.txt
+
+### Payload Description
+This payload opens a the user's camera and takes a picture of them. Then it replace's the desktop wallpaper for their computer to be that photo.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -48,9 +60,25 @@ This payload opens a terminal and writes out cryptic messages on the screen, mak
 
 
 ## Blue Screen of Death 💀
+### Payload Title
+blue_screen_of_death.txt
+
+### Payload Description
+This payload hides the user's taskbar and desktop icons. It then curls an image of a "blue screen of death" from the internet and sets it as the desktop wallpaper, tricking the user into thinking their computer has crashed. After a few seconds, the taskbar and desktop icons return to normal, leaving the user confused.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+
+
+## RanFUNware 😈
+### Payload Title
+ranfunware.txt
+
+### Payload Description
+This payload displays two messages for the user, tricking them into thinking their computer is being attacked and held for ransom.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
