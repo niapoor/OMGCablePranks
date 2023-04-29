@@ -1,0 +1,63 @@
+# =======================================
+# Title        : Desktop Photo
+# Author       : Nia Poor
+# Date         : 04/28/2023
+# Category     : Prank
+# Target       : Windows 10
+# NOTE         : If you use this payload first it may not work. If it doesn't work the first time, try again.
+# Inspiration  : https://github.com/hak5/omg-payloads/tree/master/payloads/library/prank/ScreenSaver_FuNNN
+# =======================================
+
+# Open camera
+GUI
+DELAY 50
+STRING camera
+DELAY 250
+ENTER
+# Take a photo
+DELAY 1000
+SPACE
+DELAY 500
+# Select the photo that was just taken
+TAB
+DELAY 150
+ENTER
+DELAY 500
+# Open the folder where the photo is held
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+ENTER
+DELAY 250
+DOWNARROW
+DELAY 50
+ENTER
+DELAY 500
+# Delete the camera window
+GUI
+DELAY 350
+STRING camera
+DELAY 50
+ENTER
+DELAY 300
+ALT F4
+DELAY 50
+# Right click the photo
+SHIFT F10
+DELAY 100
+# Navigate to and select, in right click, to "Set as desktop background"
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DOWNARROW
+DELAY 15
+ENTER
+DELAY 250
+# Close the open windows, leaving the background for all to see!
+ALT F4

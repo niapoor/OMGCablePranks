@@ -1,0 +1,24 @@
+# =======================================
+# Title        : YouTube Prank
+# Author       : Nia Poor
+# Date         : 04/16/2023
+# Category     : Prank
+# Target       : Windows 10
+# =======================================
+
+# Open YouTube video in Chrome
+GUI
+DELAY 200
+STRING chrome
+DELAY 200
+ENTER
+DELAY 1800
+STRING https://youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 50
+ENTER
+#DELAY 1500
+#F5
+# Start YouTube video, fullscreen
+#DELAY 9500
+DELAY 2500
+F

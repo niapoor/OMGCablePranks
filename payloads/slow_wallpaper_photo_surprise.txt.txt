@@ -1,0 +1,75 @@
+# =======================================
+# Title        : Slow Desktop Photo
+# Author       : Nia Poor
+# Date         : 04/28/2023
+# Category     : Prank
+# Target       : Windows 10
+# NOTE         : If you use this payload first it may not work. If it doesn't work the first time, try again.
+# Inspiration  : https://github.com/hak5/omg-payloads/tree/master/payloads/library/prank/ScreenSaver_FuNNN
+# =======================================
+
+# Open camera
+GUI
+DELAY 250
+STRING camera
+DELAY 250
+ENTER
+# Take a photo
+DELAY 2000
+SPACE
+DELAY 1500
+# Select the photo that was just taken
+TAB
+DELAY 300
+ENTER
+DELAY 1500
+# Open the folder where the photo is held
+TAB
+DELAY 15
+TAB
+DELAY 15
+TAB
+DELAY 15
+TAB
+DELAY 15
+TAB
+DELAY 15
+TAB
+DELAY 15
+TAB
+DELAY 15
+TAB
+DELAY 15
+ENTER
+DELAY 500
+DOWNARROW
+DELAY 150
+ENTER
+DELAY 2500
+# Delete the camera window
+GUI
+DELAY 350
+STRING camera
+DELAY 400
+ENTER
+DELAY 1500
+ALT F4
+DELAY 100
+# Right click the photo
+SHIFT F10
+DELAY 400
+# Navigate to and select, in right click, to "Set as desktop background"
+DOWNARROW
+DELAY 15
+DOWNARROW
+DELAY 15
+DOWNARROW
+DELAY 15
+DOWNARROW
+DELAY 15
+DOWNARROW
+DELAY 15
+ENTER
+DELAY 1000
+# Close the 3 open windows, leaving the background for all to see!
+ALT F4
